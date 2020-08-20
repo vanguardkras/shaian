@@ -1,0 +1,334 @@
+/* Start: Basic styling */
+body {
+    color: #fff;
+    background-image: url(../img/background/bg-dark.jpg);
+}
+
+.simplebar-scrollbar:before {
+    background: #fff;
+}
+/* End: Basic styling */
+
+/* Start: Main navigation */
+#main-nav-tb {
+    background-color: #000;
+}
+
+#main-nav-links 
+    a:hover {
+        background-color: #2b2b2b;
+}
+
+#main-nav-links 
+    a 
+        span {
+            color: #fff;
+}
+
+#main-nav-links
+    a:hover
+        i,
+#main-nav-links
+    a:hover
+        span {
+            color: #fdc108;
+}
+
+#main-nav-links
+    a.active {
+        background-color: #fdc108;
+}
+
+#main-nav-links
+    a.active 
+        i,
+#main-nav-links
+    a.active 
+        span {
+            color: #000;
+}
+/* End: Main navigation */
+
+/* Start: Window body */
+.window-header {
+    background-color: #000;
+    border-bottom-color: #313131;
+}
+
+.window-title {
+    color: #fff;
+}
+
+.window-header-btn
+{
+    color: #e2e2e2;
+}
+
+.window-header-btn:hover 
+    i {
+        color: #219dff;
+}
+
+.window-expand-btn.window-minimize-btn 
+    i {
+        color: #fdc108;
+}
+
+.window-body {
+    background-color: #232323;
+}
+/* End: Window body */
+
+/* Start: About section */
+#my-photo {
+    background-color: #e2e2e2;
+    box-shadow: 0 2px 2px #000, 0 0 0 8px #3a3a3a;
+}
+
+#intro-line, 
+#freelance {
+    color: #fff;
+}
+
+#intro-secondary-line {
+    color: #fdc108;
+}
+
+#about-me-lines {
+    color: #e2e2e2;
+    background-color: #2d2d2d;
+}
+
+#doc-link
+    a {
+        background-color: #6ebb13;
+}
+
+#doc-link
+    a:hover {
+        background-color: #5da00e;
+}
+
+#freelance {
+    border-top-color: #313131;
+}
+
+#freelance
+    a {
+        color: #219dff;
+}
+/* End: About section */
+
+/* Start: Skills, Education and Experience sections */
+.skill, 
+.education, 
+.experience {
+    background-color: #2d2d2d;
+}
+
+.skill-name, 
+.edu-name, 
+.exp-name {
+    color: #fdc108;
+}
+
+.skill-meter {
+    background-color: #343434;
+}
+
+.edu-institute, .exp-company {
+    color: #219dff;
+}
+/* End: Skills, Education and Experience sections */
+
+/* Start: Services section */
+.service-body {
+    background-color: #2d2d2d;
+}
+
+.service-plan-body {
+    background-color: #232323;
+}
+
+.service-icon {
+    color: #219dff;
+}
+
+.service-name {
+    color: #fdc108;
+}
+
+.service-description {
+    color: #e2e2e2;
+}
+
+#service-plans {
+    background-color: #2e2e2e;
+}
+
+.service-plan-name {
+    color: #8aff00;
+}
+
+.service-plan-price {
+    color: #219dff;
+}
+
+.plan-link:hover {
+    box-shadow: 0 4px 12px rgb(19, 22, 25);
+}
+/* End: Services section */
+
+/* Start: Blog section */
+.blog-heading {
+    color: #fff;
+}
+
+.blog-post, 
+.popular-blog-post {
+    background-color: #2d2d2d;
+}
+
+.blog-post-title {
+    color: #fff;
+}
+
+.popular-post-title,
+.blog-post-excerpt {
+    color: #e2e2e2;
+}
+
+#blog-pagination
+    a {
+        background-color: #219dff;
+}
+
+#blog-pagination 
+    a:hover {
+        background-color: #1b84d7;
+}
+
+#blog-pagination 
+    a.active {
+        color: #000;
+        background-color: #fdc108;
+}
+
+#blog-pagination
+    a.active:hover {
+        background-color: #dfaa09;
+}
+/* End: Blog section */
+
+/* Start: Portfolio section */
+.portfolio-tab.active {
+    color: #fdc108;
+    border-bottom-color: #fdc108;
+}
+
+.portfolio-item 
+    a::before {
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18), 0 0 0 40px rgba(38, 38, 38, 0.85);
+}
+/* End: Portfolio section */
+
+/* Start: Clients section */
+#clients-section-heading {
+    color: #fff;
+}
+
+.client-logo {
+    background-color: #2d2d2d;
+}
+/* End: Clients section */
+
+/* Start: Testimonials section */
+.testimonial {
+    background-color: #2d2d2d;
+    background-image: none;
+}
+
+.testimonial-text-content {
+    color: #e2e2e2;
+}
+
+.testimonial-text-content::first-letter {
+    color: #fdc108;
+}
+/* End: Testimonials section */
+
+/* Start: Contact section */
+#contact-body {
+    background: #232323;
+}
+
+.contact-btn-bg {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.72);
+}
+
+#contact-email {
+    color: #fff;
+}
+
+#contact-close-btn:hover {
+    color: #fff;
+}
+/* End: Contact section */
+
+/* Start: Blog post */
+.blog-post-heading,
+#blog-post-author-category 
+    a {
+        color: #fff;
+}
+
+#blog-post-info,
+.comment-text {
+    color: #e2e2e2;
+}
+
+.blog-text 
+    a {
+        color: #F44336;
+        border-bottom-color: #F44336;
+}
+
+blockquote.blog-text {
+    border-left-color: #555;
+}
+
+#blog-post-content,
+blockquote.blog-text,
+.input-box-cover, 
+.comment-body,
+.comment-reply-btn {
+    background-color: #2d2d2d;
+}
+
+#blog-post-content,
+.input-box-cover, 
+.comment-body,
+.commenter,
+.comment-reply-btn {
+    box-shadow: 0 1px 2px #0d0d0d;
+}
+
+.comment-reply-btn:hover {
+    box-shadow: 0 1px 2px #196bac;
+}
+
+.input-box-cover        
+    input,
+.input-box-cover        
+    textarea {
+        color: #fff;
+}
+
+.commenter {
+    border-color: #2d2d2d;
+}
+
+.comment-body::before {
+    border-right-color: #2d2d2d;
+}
+/* End: Blog post */

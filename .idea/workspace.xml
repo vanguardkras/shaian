@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3763cf4-d31c-4989-a48d-a64b2f4a18ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="ProjectId" id="1fwyllJAJusswG4variLVX4KQqg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\www\www\shaian\img\background" />
+      <recent name="C:\www\www\shaian\img\testimonials" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3763cf4-d31c-4989-a48d-a64b2f4a18ae" name="Default Changelist" comment="" />
+      <created>1597143602708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597143602708</updated>
+      <workItem from="1597143603890" duration="7093000" />
+      <workItem from="1597223895920" duration="658000" />
+      <workItem from="1597224711927" duration="2193000" />
+      <workItem from="1597309916134" duration="55000" />
+      <workItem from="1597908225453" duration="9790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="168" key="#Intentions" timestamp="1597226218183">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="168" key="#Intentions/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1597226218183" />
+    <state x="674" y="433" key="NewPhpFileDialog" timestamp="1597225962980">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="674" y="433" key="NewPhpFileDialog/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1597225962980" />
+    <state x="341" y="155" key="SettingsEditor" timestamp="1597226255480">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="341" y="155" key="SettingsEditor/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1597226255480" />
+    <state x="547" y="243" width="585" height="534" key="find.popup" timestamp="1597919949074">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="547" y="243" width="585" height="534" key="find.popup/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1597919949074" />
+  </component>
+</project>
