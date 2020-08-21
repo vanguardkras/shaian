@@ -1,0 +1,23 @@
+.feature-icon {
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: border-color .3s ease-out;
+}
+
+.feature-icon:hover {
+    border-color: #097dea;
+}
+
+.feature-icon.full {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+
+.feature-icon.full img {
+    display: block;
+    max-width: 90%;
+}

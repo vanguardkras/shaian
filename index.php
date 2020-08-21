@@ -1,4 +1,7 @@
-<?php $data = include 'data.php'; ?>
+<?php
+$lang = '';
+$data = include 'data' . $lang . '.php';
+?>
 <!DOCTYPE html>
 <html lang="<?= $data['lang'] ?>">
 
